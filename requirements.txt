@@ -1,0 +1,9 @@
+Flask
+sklearn
+scikit-learn
+pandas
+numpy
+matplotlib
+jinja2<3.1.0
+gunicorn
+streamlit
